@@ -1,4 +1,2 @@
-README
-
-Vim shortcuts cheat sheet
+README.md
 ====
