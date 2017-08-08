@@ -1,2 +1,4 @@
-README TEST
+README
+
+Vim Shortcuts cheat sheet
 ====
