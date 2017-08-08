@@ -1,4 +1,4 @@
 README
 
-Vim Shortcuts cheat sheet
+Vim shortcuts cheat sheet
 ====
